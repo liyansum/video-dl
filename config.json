@@ -2,6 +2,6 @@
   "api_id": 123456,
   "api_hash": "abcdef1234567890abcdef",
   "phone_number": "+8612345678901",
-  "session_file": "session.json",
-  "videos_dir": "./videos"
+  "session_name": "mysession",
+  "video_dir": "videos"
 }
